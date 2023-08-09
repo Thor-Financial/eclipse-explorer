@@ -1,4 +1,4 @@
-<h1 align="center">Eclipe Explorer</h1>
+<h1 align="center">Eclipse Explorer</h1>
 <p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
 <div align="center">
 
